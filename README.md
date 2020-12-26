@@ -1,4 +1,4 @@
-# Illetrates Identification and Email Application 
+# Illiterates Identification and Email Application 
 
 
 ###  Currently a literate person is uniquely identified by :
