@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+.tableSetting{
+	 background-color:#FFF;
+	 border:double;
+	 border-color:#900;
+	 border-width:10px;
+	 border-radius:10px;
+	 padding:20px;
+	}
+.picDiv{
+	border:groove; border-style:ridge;
+    border-radius:20px; border-width:10px; border-color:#F00; 
+	padding-top::0px; background-color:#FFF; margin:0px; 
+	height:170px; width:160px;
+	}
+	
+.pic{
+	margin-left:-10px; margin-bottom:-20px; height:250px; width:250px; padding:0px;
+	
+    }
+.aClass{
+	color:#FFF;
+	}
+	.doIt{
+	
+		height:160px; width:250px; padding:0px; background-color:#FFF; margin-bottom:-5px; padding:15px;
+		}
+		.checking{
+			 border-radius:100px;
+			}
+			.profileTable{
+	 background-color:#FFF;
+	 border:dotted;
+	 border-color:#900;
+	 border-width:10px;
+	 border-radius:10px;
+	 padding:20px;
+				}
+				.profile{
+					height:150px;
+					width:150px;
+				    border:dotted;
+					border-color:#006;
+					margin:15px;	
+					
+					}
+					.hoverring{
+					   	
+						}
+						.picC
+						{
+					    
+						border:dotted;
+					    border-color:#00F;		
+						}
